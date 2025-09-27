@@ -48,7 +48,12 @@ color: #434455;
 
     }
 
-
+.nav-link:hover,
+.nav-link:focus,
+.contakts-link:hover,
+.contakts-link:focus {
+    color: #404bbf;
+}
 
 
 
