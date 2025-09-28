@@ -60,7 +60,7 @@ font-size: 16px;
 /*Sections 1 hero */
 
 .hero {
-    background-color: #2e2f42;
+background-color: #2e2f42;
 }
 .hero-text {
 font-size: 56px;
@@ -70,17 +70,16 @@ text-align: center;
 color: #fff;
 }
 
-.button{
-    cursor: pointer;
-}
+
 
 .hero-btn {
-  background-color: #4d5ae5;
+background-color: #4d5ae5;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+cursor: pointer;
 }
 
 .hero-btn:focus .hero-btn:hover
