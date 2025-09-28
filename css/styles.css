@@ -55,12 +55,12 @@ color: #434455;
     color: #404bbf;
 }
 
-/*Sections hero */
+/*Sections 1 hero */
 
 .hero {
     background-color: #2e2f42;
-
-}.hero-title{
+}
+.hero-title{
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
@@ -68,11 +68,18 @@ text-align: center;
 color: #fff;
 }
 
-.hero-button {
-    background-color: #4d5ae5;;
+.hero-btn {
+  background-color: #4d5ae5;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
 }
-.hero-button:focus {
-.hero-button:hover
+
+.hero-btn:focus .hero-btn:hover
+{
+    background-color: #4d5ae5
 }
 
 /*section 2 Features*/
@@ -137,6 +144,7 @@ color: #434455;
  line-height: 1.11;
  letter-spacing: 0.02em;
  text-align: center;
+ text-transform: capitalize;
   color: #2e2f42;
 }
 
@@ -158,13 +166,25 @@ font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455
-}
+    }
 
+
+/*Footer*/
 
 .footer {
-    background-color: #2e2f42;
+  background-color: #2e2f42;  
 }
-.footer-logo .footer-part {
+.footer-header-logo .footer-logo-part {
     color: #f4f4fd
 }
 
+.header-logo .logo-part {
+    color: #f4f4fd;
+}
+.footer-slogan {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
