@@ -35,7 +35,7 @@ color: #2e2f42;
 }
 .nav-link:hover,
 nav-link:focus {
-    color: #404bbf;
+    color: #404bbf;;
 }
 
 .contakts {
@@ -62,12 +62,16 @@ font-size: 16px;
 .hero {
     background-color: #2e2f42;
 }
-.hero-title{
+.hero-text {
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+}
+
+.button{
+    cursor: pointer;
 }
 
 .hero-btn {
@@ -81,7 +85,7 @@ color: #fff;
 
 .hero-btn:focus .hero-btn:hover
 {
-    background-color: #4d5ae5
+    background-color: #404bbf;
 }
 
 /*section 2 Features*/
