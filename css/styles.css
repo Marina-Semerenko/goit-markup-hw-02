@@ -38,11 +38,11 @@ color: #2e2f42;
     color: #404bbf;
 }
 
-.contakts {
+.contacts {
     font-style: normal;
     }
 
-    .contakts-link {
+    .contacts-link {
 font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -51,8 +51,8 @@ font-size: 16px;
 
 .nav-link:hover,
 .nav-link:focus,
-.contakts-link:hover,
-.contakts-link:focus {
+.contacts-link:hover,
+.contacts-link:focus {
     color: #404bbf;
 }
 
