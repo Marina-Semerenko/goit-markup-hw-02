@@ -69,8 +69,6 @@ text-align: center;
 color: #fff;
 }
 
-
-
 .hero-btn {
 background-color: #4d5ae5;
 font-weight: 500;
@@ -82,7 +80,7 @@ color: #fff;
 }
 
 
- .hero-btn:hover {
+ .button:hover {
     background-color: #404bbf;
 cursor: pointer;
  }
