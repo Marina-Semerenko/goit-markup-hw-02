@@ -21,7 +21,6 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
-
 .header-logo .logo-part {
     color: #2e2f42;
 }
@@ -42,7 +41,7 @@ nav-link:focus {
     }
 
     .contakts-link {
-   font-size: 16px;
+font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
@@ -62,7 +61,6 @@ color: #434455;
     background-color: #2e2f42;
 
 }.hero-title{
-   /* font-weight: 700;*/
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
@@ -78,6 +76,7 @@ color: #fff;
 }
 
 /*section 2 Features*/
+
 .features-section {
 background-color: #f4f4fd;
 }
@@ -100,7 +99,7 @@ color: #434455;
 /* section 3 person*/
 
 .team-section {
-    background-color: #f4f4fd;
+     background-color: #f4f4fd;
 }
 .section-title {
 font-size: 36px;
@@ -131,14 +130,14 @@ text-align: center;
 color: #434455;
 }
 
-/*sechion 4/
+/*sechion 4*/
 
 .portfolio-title {
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
+ font-size: 36px;
+ line-height: 1.11;
+ letter-spacing: 0.02em;
+ text-align: center;
+  color: #2e2f42;
 }
 
 .portfolio-item {
