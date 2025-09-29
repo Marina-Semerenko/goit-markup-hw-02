@@ -88,9 +88,7 @@ cursor: pointer;
  
 /*section 2 Features*/
 
-.features-section {
-background-color: #f4f4fd;
-}
+
 
 .features-title {
 font-weight: 500;
@@ -175,10 +173,10 @@ font-weight: 400;
 
 /*Footer*/
 
-.footer {
+.page-footer {
   background-color: #2e2f42;  
 }
-.footer-header-logo .footer-logo-part {
+.footer-logo .logo-part {
     color: #f4f4fd
 }
 
